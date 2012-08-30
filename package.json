@@ -7,6 +7,6 @@
   "homepage":     "http://github.com/GlitchMr/python-format",
   "bugs":         { "url": "http://github.com/GlitchMr/python-format/issues" },
   "main":         "./lib/python-format",
-  "repository":   { "type": "git", "url": "https://github.com/GlitchMr/sprint.git" },
+  "repository":   { "type": "git", "url": "https://github.com/GlitchMr/python-format.git" },
   "scripts":      { "test": "node test/test" }
 }
