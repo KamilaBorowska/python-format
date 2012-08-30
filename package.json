@@ -1,0 +1,12 @@
+{
+  "author":       "GlitchMr <glitchmr@myopera.com> (http://glitchmr.github.com)",
+  "name":         "python-format",
+  "description":  "Python's str.format() implementation.",
+  "version":      "v1.0.0",
+  "keywords":     [ "format", "python", "sprintf", "printf" ],
+  "homepage":     "http://github.com/GlitchMr/python-format",
+  "bugs":         { "url": "http://github.com/GlitchMr/python-format/issues" },
+  "main":         "./lib/python-format",
+  "repository":   { "type": "git", "url": "https://github.com/GlitchMr/sprint.git" },
+  "scripts":      { "test": "node test/test" }
+}
