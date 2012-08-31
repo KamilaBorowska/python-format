@@ -102,3 +102,8 @@ assert('10', '{._x}', {_x: 10})
 assert('2', '{[1]}', [1, 2])
 assert('1', '{[a]}', {a: 1, b: 2})
 assert('a0b1c', 'a{}b{}c', 0, 1)
+
+// g modifier
+assert('0', '{:g}', 0)
+assert('-0', '{:g}', -0)
+
