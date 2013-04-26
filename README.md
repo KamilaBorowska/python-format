@@ -19,7 +19,7 @@ For more details see http://docs.python.org/py3k/library/stdtypes.html#str.forma
 
 # Changelog
 ## 1.0.1
-* `-0` is returned instead of `-0` when dealing with `format('{:g}', -0)`.
+* `-0` is returned instead of `0` when dealing with `format('{:g}', -0)`.
 
 ## 1.0.0
 * First release
