@@ -6,7 +6,7 @@ just type `npm install python-format` in console.
 
 ```javascript
 var format = require('python-format')
-console.log(format('My nick is {0}.', 'GlitchMr'))
+console.log(format('Hello, {}!', 'world'))
 ```
 
 If you want to use this in browser, download
