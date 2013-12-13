@@ -2,8 +2,8 @@ var i = 0
 function assert(expect) {
     var assert = require('assert')
     var args = Array.prototype.slice.call(arguments, 1)
-    var msg = 'assert(' + args.map(JSON.stringify).join(', ')
-        + ') === ' + JSON.stringify(expect)
+    var msg = 'assert(format(' + args.map(JSON.stringify).join(', ')
+        + ')) === ' + JSON.stringify(expect)
     var formatFunction = require('../lib/python-format')
     var result
     result = formatFunction.apply({}, args)
