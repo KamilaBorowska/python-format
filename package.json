@@ -1,7 +1,7 @@
 {
   "author":       "GlitchMr <glitchmr@myopera.com> (http://glitchmr.github.com)",
   "name":         "python-format",
-  "description":  "Python's str.format() implementation.",
+  "description":  "Python's str.format() implementation",
   "version":      "v1.0.1",
   "keywords":     [ "format", "python", "sprintf", "printf" ],
   "homepage":     "http://github.com/GlitchMr/python-format",
