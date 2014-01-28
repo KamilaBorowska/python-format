@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/GlitchMr/python-format.png?branch=master)](http://travis-ci.org/GlitchMr/python-format) 
+[![Build Status](https://secure.travis-ci.org/xfix/python-format.png?branch=master)](http://travis-ci.org/xfix/python-format) 
 
 `python-format` is implementation of Python's `str.format()`. It works
 both in browser and in Node.js. If you want to use this in Node.js,
@@ -10,7 +10,7 @@ console.log(format('Hello, {}!', 'world'))
 ```
 
 If you want to use this in browser, download
-[python-format.js](https://raw.github.com/GlitchMr/python-format/master/lib/python-format.js),
+[python-format.js](https://raw.github.com/xfix/python-format/master/lib/python-format.js),
 if you want, pass it using your favorite JavaScript minifizer (I prefer
 [UglifyJS](http://marijnhaverbeke.nl/uglifyjs), but you can use other
 minifizers).
