@@ -1,5 +1,5 @@
 {
-  "author":       "GlitchMr <glitchmr@myopera.com> (http://glitchmr.github.com)",
+  "author":       "Konrad Borowski <x.fix@o2.pl>",
   "name":         "python-format",
   "description":  "Python's str.format() implementation",
   "version":      "v1.0.1",
