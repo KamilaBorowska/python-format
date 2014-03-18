@@ -10,10 +10,10 @@ function assert(expect) {
     try {
         assert.equal(result, expect, msg)
     }
-    catch (e) {
+    catch (exception) {
         console.log(formatFunction('Expected: {}', expect))
         console.log(formatFunction('Got:      {}', result))
-        throw e
+        throw exception
     }
     console.log(formatFunction(' {:02d}: OK {}', ++i, msg))
 }
