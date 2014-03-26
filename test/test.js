@@ -17,6 +17,7 @@ function assert(expect) {
     }
     console.log(formatFunction(' {:02d}: OK {}', ++i, msg))
 }
+
 assert('', '')
 assert('a', 'a')
 assert('ab', 'ab')
@@ -25,10 +26,12 @@ assert('a}', 'a}}')
 assert('{b', '{{b')
 assert('}b', '}}b')
 assert('a{b', 'a{{b')
+
 // Examples from PEP 3101
 assert('My name is Fred', 'My name is {0}', 'Fred')
 assert('My name is Fred', 'My name is {0[name]}', {name: 'Fred'})
 assert('My name is Fred :-{}', 'My name is {0} :-{{}}', 'Fred')
+
 // Real examples
 assert('abc', '{0}', 'abc')
 assert('abc', '{0:}', 'abc')
