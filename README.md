@@ -1,6 +1,6 @@
 [![Build Status](https://secure.travis-ci.org/xfix/python-format.png?branch=master)](http://travis-ci.org/xfix/python-format) 
 
-`python-format` is implementation of Python's `str.format()`. It works
+`python-format` is implementation of Python's `str.format`. It works
 both in browser and in Node.js. If you want to use this in Node.js,
 just type `npm install python-format` in console.
 
