@@ -12,7 +12,7 @@ console.log(format('Hello, {}!', 'world'))
 If you want to use this in browser, download
 [python-format.js](https://raw.github.com/xfix/python-format/master/lib/python-format.js),
 if you want, pass it using your favorite JavaScript minifizer (I prefer
-[UglifyJS](http://marijnhaverbeke.nl/uglifyjs), but you can use other
+[UglifyJS](http://lisperator.net/uglifyjs/), but you can use other
 minifizers).
 
 For more details see http://docs.python.org/py3k/library/stdtypes.html#str.format.
