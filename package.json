@@ -4,9 +4,9 @@
   "description":  "Python's str.format() implementation",
   "version":      "v1.0.1",
   "keywords":     [ "format", "python", "sprintf", "printf" ],
-  "homepage":     "http://github.com/GlitchMr/python-format",
-  "bugs":         { "url": "http://github.com/GlitchMr/python-format/issues" },
+  "homepage":     "https://github.com/xfix/python-format",
+  "bugs":         { "url": "https://github.com/xfix/python-format/issues" },
   "main":         "./lib/python-format",
-  "repository":   { "type": "git", "url": "https://github.com/GlitchMr/python-format.git" },
+  "repository":   { "type": "git", "url": "https://github.com/xfix/python-format.git" },
   "scripts":      { "test": "node test/test" }
 }
