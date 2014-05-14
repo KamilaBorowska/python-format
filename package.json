@@ -3,7 +3,7 @@
   "name":         "python-format",
   "description":  "Python's str.format() implementation",
   "version":      "v1.0.1",
-  "keywords":     [ "format", "python", "sprintf", "printf" ],
+  "keywords":     [ "string", "format", "python", "sprintf", "printf" ],
   "homepage":     "https://github.com/xfix/python-format",
   "bugs":         { "url": "https://github.com/xfix/python-format/issues" },
   "main":         "./lib/python-format",
