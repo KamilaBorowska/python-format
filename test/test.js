@@ -1,3 +1,4 @@
+var i = 0
 function assert(expect) {
     var assert = require('assert')
     var args = Array.prototype.slice.call(arguments, 1)
