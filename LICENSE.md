@@ -1,4 +1,4 @@
-Copyright © 2012-2013, Konrad Borowski <x.fix@o2.pl>
+Copyright © 2012-2014, Konrad Borowski <x.fix@o2.pl>
 
 Permission to use, copy, modify, and/or distribute this software for
 any purpose with or without fee is hereby granted, provided that the
