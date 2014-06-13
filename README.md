@@ -15,7 +15,7 @@ if you want, pass it using your favorite JavaScript minifizer (I prefer
 [UglifyJS](http://lisperator.net/uglifyjs/), but you can use other
 minifizers).
 
-For more details see http://docs.python.org/py3k/library/stdtypes.html#str.format.
+For more details see <http://docs.python.org/py3k/library/stdtypes.html#str.format>.
 
 # Changelog
 ## 1.0.1
