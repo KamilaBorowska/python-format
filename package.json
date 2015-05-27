@@ -2,7 +2,7 @@
   "author":       "Konrad Borowski <x.fix@o2.pl>",
   "name":         "python-format",
   "description":  "Python's str.format() implementation",
-  "version":      "v1.0.1",
+  "version":      "v1.0.2",
   "keywords":     [ "string", "format", "python", "sprintf", "printf" ],
   "homepage":     "https://github.com/xfix/python-format",
   "bugs":         { "url": "https://github.com/xfix/python-format/issues" },
